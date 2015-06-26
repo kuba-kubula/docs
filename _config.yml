@@ -1,0 +1,6 @@
+---
+root:
+permalink: /:year/:month/:day/:title
+lsi: false
+pygments: true
+markdown: kramdown
